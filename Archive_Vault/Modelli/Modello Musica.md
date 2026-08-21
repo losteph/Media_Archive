@@ -8,7 +8,7 @@ locandina: "img_musica/"
 generi:
   - 
 ---
-![[]]
+![[ | 300x300]]
 **Artista/i:** [[]]
 
 ### Tracklist
