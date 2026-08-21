@@ -8,7 +8,7 @@ locandina: img_serie/
 generi: 
 s1: 0/8
 ---
-![[]]
+![[ | 400x575]]
 
 
 **Ideatore/i:** [[]]
