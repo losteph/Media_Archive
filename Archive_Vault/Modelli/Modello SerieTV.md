@@ -8,15 +8,18 @@ locandina: img_serie/
 generi: 
 s1: 0/8
 ---
-![[ | 400x575]]
-
-
+![[|400x575]]
 **Ideatore/i:** [[]]
 
 **Cast:**
 - [[]] ()
 
 
+# Trama:
+
+
+
+# Progresso:
 ```dataviewjs
 const p = dv.current();
 let html = `<div style="margin-top: 15px; margin-bottom: 25px; padding: 20px; background: var(--background-secondary); border-radius: 8px; border: 1px solid var(--background-modifier-border); max-width: 450px;">
@@ -84,6 +87,4 @@ if (trovato) {
     dv.paragraph("*Nessun progresso trovato. Aggiungi proprietà come 's1: 3/10' o 's1: Nome | 3/10'.*");
 }
 ```
-
-
-# Commento
+# Commento:

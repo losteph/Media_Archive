@@ -8,13 +8,13 @@ locandina: "img_film/"
 generi:
   - 
 ---
-![[ |400x575]]
+![[|400x575]]
 **Regista/i:** [[]]
 
 **Cast:**
 - [[]] ()
 
-# Trama (IT)
+# Trama:
 
 
-# Commento
+# Commento:

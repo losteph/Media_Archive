@@ -8,11 +8,11 @@ locandina: "img_musica/"
 generi:
   - 
 ---
-![[ | 300x300]]
+![[|300x300]]
 **Artista/i:** [[]]
 
-### Tracklist
+### Tracklist:
 1. 
 2. 
 
-# Commento
+# Commento:

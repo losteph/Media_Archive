@@ -9,10 +9,10 @@ locandina: "img_libri/"
 generi:
   - 
 ---
-![[ | 400x575]]
+![[|400x575]]
 **Autore/i:** [[]]
 
-# Trama (IT)
+# Trama:
 
 
-# Commento
+# Commento:
