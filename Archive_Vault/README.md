@@ -11,6 +11,7 @@ Il Vault deve mantenere questa struttura rigorosa per far funzionare correttamen
 - `SerieTV/` (File .md delle serie)
 - `Libri/` (File .md dei libri)
 - `Musica/` (File .md degli album)
+- `Cast/` (File .md di Attori, Registi, Scrittori)
 - `img_film/` (Locandine Film)
 - `img_serie/` (Copertine Serie TV)
 - `img_libri/` (Copertine Libri)
@@ -84,14 +85,6 @@ Sono stati sviluppati 4 plugin custom per Obsidian (Film, SerieTV, Musica, Libri
 - Li ho pensati per avere interfacce visive accattivanti (stile "Netflix", "Spotify"), con l'aggiunta di vari filtri di ricerca, ordinamento personalizzato, copertine grafiche. Mantenendo però i dati in formato markdown locale (puro e proprietario).
 - I plugin sfruttano l'evento app.metadataCache di Obsidian e leggono in tempo reale i file nel Vault intercettando i metadata (yaml).
 - Per evitare bug ogni plugin scansiona esclusivamente la cartella di competenza e scarta i vari modelli in cartelle non pertinenti.
-
-## Struttura delle Cartelle
-I plugin dipendono da una rigida organizzazione delle cartelle. I file `.md` **devono** essere creati in:
-- 📁 `Film`
-- 📁 `SerieTV`
-- 📁 `Musica`
-- 📁 `Libri`
-- 📁 `Modelli` (dove risiedono i template).
 
 ## Compilazione dei file
 Affinché i plugin peschino le info corrette, l'intestazione YAML in cima al file .md deve rispettare queste chiavi:
@@ -171,9 +164,9 @@ Possiamo assegnare colori specifici creando i Gruppi
     - Scrivi `path:Musica` e scegli il **Viola**.
     - Scrivi `path:Persone` (o Cast) e scegli il **Giallo** o l'**Arancione**.
 
-- In questo modo, al colpo d'occhio, la tua mappa neurale sarà uno spettacolo ordinatissimo e facile da navigare.
+- In questo modo, al colpo d'occhio, la mappa sarà uno ordinatissima e facile da navigare.
 
 ---
 
-**Le Proprietà Native:** Specifica di attivare l'opzione nativa di Obsidian **Proprietà del documento** (Properties view) nelle impostazioni principali (Opzioni Principali > Editor > Properties in Document > Visible). 
+**Proprietà Native:** attivare nelle impostazioni principali (Opzioni Principali > Editor > Properties in Document > Visible). 
 Questo rende i metadati in cima al file belli da vedere e modificabili senza toccare il codice sorgente.
