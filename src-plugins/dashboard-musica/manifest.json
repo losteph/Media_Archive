@@ -1,0 +1,9 @@
+{
+	"id": "dashboard-musica",
+	"name": "Dashboard Music",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Dashboard per la musica.",
+	"author": "Step+Gemini",
+	"isDesktopOnly": false
+}

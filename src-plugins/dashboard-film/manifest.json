@@ -1,0 +1,9 @@
+{
+	"id": "dashboard-film",
+	"name": "Dashboard Film",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Dashboard personalizzata per gestire i miei film.",
+	"author": "Step+Gemini",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dashboard-serie",
+	"name": "Dashboard SerieTV",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Dashboard personalizzata per gestire le mie serieTV.",
+	"author": "Step+Gemini",
+	"isDesktopOnly": false
+}

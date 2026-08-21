@@ -1,0 +1,9 @@
+{
+	"id": "dashboard-libri",
+	"name": "Dashboard Books",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Dashboard personalizzata per gestire i miei libri.",
+	"author": "Step+Gemini",
+	"isDesktopOnly": false
+}
