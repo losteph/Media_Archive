@@ -8,7 +8,7 @@ locandina: "img_film/"
 generi:
   - 
 ---
-![[]]
+![[ |400x575]]
 **Regista/i:** [[]]
 
 **Cast:**
